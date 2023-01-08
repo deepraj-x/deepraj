@@ -1,6 +1,6 @@
 # Facebook Static Login Form (Full offline css and js)
 
-## Author: [KasRoudra](https://github.com/KasRoudra)
+## Author: [Deepraj Biswas](https://github.com/deepraj-x)
 
 #### This is created for educational purposes demonstrating how phishing works.
 
